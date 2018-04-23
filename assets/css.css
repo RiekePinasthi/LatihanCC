@@ -1,0 +1,22 @@
+#atas{
+    background-color: #990000;
+    height: 200px
+    }
+.tengah{
+    height: 500px;
+    font-size: 15px;
+    background-color:  #ffffff
+}
+.bawah{
+    height: 50px;
+    font-size: 20px;
+    font-family: monospace;
+    color:  #ffffff;
+    background-color:  #990000
+}
+#menu{
+    padding-right: 50%;
+}
+p{
+    size: 5px;
+}
